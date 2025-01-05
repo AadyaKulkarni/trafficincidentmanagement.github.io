@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b53d77c-98ea-4983-8629-595d2ae1951b)# trafficincidentmanagement.github.io
+# trafficincidentmanagement.github.io
 ## Portfolio
 
 ### Hello, I'm [Aadya Kulkarni] 👋
@@ -6,7 +6,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
+- **Project 1**: An innovative project focused on traffic incident management in smart cities, designed to optimize emergency resource allocation and improve response times. This solution leverages technology to enhance road safety and streamline incident handling for smarter urban living.
 
 
 ## 🚀 Skills
@@ -15,8 +15,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/aadya-k-70b3a92a6/)
 
 ## Portfolio Topic
 
@@ -24,18 +23,17 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECAP202</dd>
 <dt>Name</dt>
 <dd>Aadya Kulkarni/dd>
 <dt>SRN</dt>
 <dd>02FE23BCI018</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Mrs. Priyanka Gawade</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
 <dt>Traffic Incident Management</dt>
-<dd>Google</dd>
-</dl>
+
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
