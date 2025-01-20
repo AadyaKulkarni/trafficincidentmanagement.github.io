@@ -1,12 +1,17 @@
-# trafficincidentmanagement.github.io
+# TRAFFIC MANAGEMENT SYSTEM
 ## Portfolio
 
-### Hello, I'm [Aadya Kulkarni] 👋
+### Hello, I'm Aadya Kulkarni👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: An innovative project focused on traffic incident management in smart cities, designed to optimize emergency resource allocation and improve response times. This solution leverages technology to enhance road safety and streamline incident handling for smarter urban living.
+- **Project 1**: An innovative project focused on traffic incident management in smart cities, designed to optimize emergency resource allocation and improve response times. This solution leverages technology to enhance road safety and streamline incident handling for smarter urban living. It comprises of 4 modules and respective sub modules. 
+- The 4 major modules are:
+  1.Traffic monitoring and data collection
+  2. Incident detection and emergency alert system
+  3. Emergency resource allocation
+  4. High risk zone identification
 
 
 ## 🚀 Skills
@@ -16,6 +21,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/aadya-k-70b3a92a6/)
+- [GitHub](https://github.com/AadyaKulkarni)
 
 ## Portfolio Topic
 
