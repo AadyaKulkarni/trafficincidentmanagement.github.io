@@ -31,7 +31,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code</dt>
 <dd>24ECAP202</dd>
 <dt>Name</dt>
-<dd>Aadya Kulkarni/dd>
+<dd>Aadya Kulkarni</dd>
 <dt>SRN</dt>
 <dd>02FE23BCI018</dd>
 <dt>Course Instructor</dt>
