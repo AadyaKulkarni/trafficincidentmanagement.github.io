@@ -23,7 +23,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - [LinkedIn](https://www.linkedin.com/in/aadya-k-70b3a92a6/)
 - [GitHub](https://github.com/AadyaKulkarni)
 
-## Portfolio Topic
+## Details
 
 <dl>
 <dt>Course Name</dt>
